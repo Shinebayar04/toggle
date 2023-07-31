@@ -1,31 +1,22 @@
-.App {
-  text-align: center;
+div{
+  border: 1px;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.ulaanbaatar{
+  background-color: rgb(197, 50, 50);
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+button{
+  background-color: rgb(38, 149, 253);
+  font-size: larger;
+ }
+ 
+ 
+ /* .toggle-off {
+  padding: 10px 20px;
+  border-radius: 40%;
+  background-color: white;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-.heart {
-  color: #ff0000;
-}
-
-.small {
-  font-size: 0.75rem;
-}
+.toggle-on {
+  padding: 10px 20px;
+  border-radius: 40%;
+  background-color: rgb(42, 98, 163);
+}  */
